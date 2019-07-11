@@ -1,5 +1,5 @@
 # API RESTful do sistema EvenL
-Repositório: [https://github.com/academind/node-restful-api-tutorial.git](https://github.com/academind/node-restful-api-tutorial.git)
+Repositório: [https://github.com/josue-acaz/api-nodejs-evenl.git](https://github.com/josue-acaz/api-nodejs-evenl.git)
 
 # Uso
 Dê um ```git clone``` e depois execute ```npm install```. Caso ocorra algum erro ao executar esse último comando, faça ```npm init --y``` no diretório raiz da API e depois tente executar o comando novamente.
